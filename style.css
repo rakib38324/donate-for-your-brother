@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+}
+
+.front-page{
+    background-image: url(images/Untitled.png);
+    background-size: 1600px 1300px;
+    background-repeat: no-repeat; 
+}
+
+.front-page-discription{
+    color:white;
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 25%;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgba(82, 74, 74, 0.589)
+    
+}
+
+
+.button{
+    background-color: tomato;
+    width: 10px;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.button:hover{
+    border: 2px solid blue;
+    background-color: green;
+}
+
+/*
+#litle{
+    
+    font-size: 80px;
+    text-align: center;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    background-color: rgba(128, 128, 128, 0.24);
+  
+}
+
+.front-discription{
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    background-color: rgba(128, 128, 128, 0.24);
+}/*
+
