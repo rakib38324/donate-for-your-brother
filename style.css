@@ -19,15 +19,15 @@
     border-radius: 10px;
     border: 2px solid rgb(255, 255, 255);
     
-    background-color: rgba(82, 74, 74, 0.589)
+    background-color: rgba(128, 128, 128, 0.253);
     
 }
 
 
 .button{
-    background-color: tomato;
+    background-color: rgb(156, 37, 16);
     width: 10px;
-    padding: 10px;
+    padding: 15px;
     color: white;
     border-radius: 5px;
     text-decoration: none;
@@ -93,7 +93,8 @@
     text-align: left;
     padding: 10px;
     margin: 10px;
-    background-color: rgba(153, 50, 204, 0.068);
+    background-color: rgba(153, 50, 204, 0.137);
+    border: 1px solid rgba(255, 99, 71, 0.226);
     margin-bottom: 5%;
 }
 
@@ -103,11 +104,11 @@
 }
 
 .background-color2{
-    background-color: rgba(127, 255, 212, 0.459);
+    background-color: rgba(102, 147, 206, 0.247);
 }
 
 .background-color3{
-background-color: rgba(255, 235, 205, 0.548);
+background-color: rgba(116, 59, 113, 0.425);
 }
 
 .funds-card{
@@ -116,14 +117,15 @@ background-color: rgba(255, 235, 205, 0.548);
     margin: 20px;
     padding: 10px;
     padding-bottom: 20px;
-    border: 1px solid gray;
+    border: 1px solid rgb(255, 99, 71);
     border-radius: 4px;
-    background-color: rgba(128, 128, 128, 0.185);
+    background-color: rgba(255, 99, 71, 0.171);
 }
 
 
 .funds-card img{
     width: 100%;
+    border-radius: 8px;
 }
 
 .funds-button{
@@ -140,13 +142,15 @@ background-color: rgba(255, 235, 205, 0.548);
     display: flex;
     justify-content: space-between;
     width: 100%;
-
     margin-bottom: 20px;
 }
 
 .donation-gellary img{
-    padding-top: 8%;
+    border-radius: 8px;
+    margin: 10px;
     width: 90%;
+    
+    
 }
 
 .gellary-discription{
@@ -176,6 +180,7 @@ background-color: rgba(255, 235, 205, 0.548);
    margin: 10px;
    margin-left: 10%;
    border-radius: 10px;
+
     
 }
 
@@ -189,6 +194,7 @@ background-color: rgba(255, 235, 205, 0.548);
     border: 3px solid rgb(231, 231, 231);
     background-color: rgb(213, 211, 223);
     font-size: 20px;
+    padding-left: 5px;
     color: gray;
     padding-top: 10px;
     border-radius: 8px;
@@ -209,6 +215,13 @@ background-color: rgba(255, 235, 205, 0.548);
     font-size: 18px;
     text-align: center;
     cursor: pointer;
-    background-color: tomato;
+    background-color: rgb(212, 69, 44);
 
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5%;
 }
