@@ -79,6 +79,8 @@
 
 }
 
+
+
 .donate-section{
     background-color: rgba(172, 94, 48, 0.096)
 }
@@ -131,5 +133,45 @@ background-color: rgba(255, 235, 205, 0.548);
     text-decoration: none;
 }
 
+.donation-gellary{
+    background-color: rgba(128, 128, 128, 0.247);
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
 
+    margin-bottom: 20px;
+}
+
+.donation-gellary img{
+    padding-top: 8%;
+    width: 90%;
+}
+
+.gellary-discription{
+    width: 80%;
+    margin: 5%;
+    font-size: 25px;
+}
+
+
+.Contribute-button{
+    width: 20%;
+    padding: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    border-radius: 4px;
+}
+
+.gallery-baner{
+    margin: 10px;
+    display: flex;
+    width: 100;
+    justify-content: space-between;
+}
+
+.gallery-baner img{
+    width: 98%;
+}
 
